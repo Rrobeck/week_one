@@ -1,0 +1,19 @@
+p {
+	font-family: Helvetica;
+	color: white;
+}
+h1{
+	font-family:Helvetica;
+	font-style:bold underline;
+}
+div{
+	background-color: gray;
+	margin:auto;
+}
+a:link {
+	color: red;
+	text-decoration: none;
+}
+a:hover {
+	color: green;
+}
